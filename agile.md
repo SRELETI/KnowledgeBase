@@ -8,4 +8,8 @@
 
 ## Popular Websites about Agile software Development
 
-* (MountainGateSoftware)[https://www.mountaingoatsoftware.com/books]
+* [MountainGateSoftware](https://www.mountaingoatsoftware.com/books)
+
+## TEDx talks
+
+* [The single biggest reason why startups succeed](https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_startups_succeed)
