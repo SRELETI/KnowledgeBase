@@ -1,3 +1,24 @@
+# Agile Notes
+
+## How a Project can be measured?
+
+Mostly if:
+
+* Done on Schedule.
+* Done on budget.
+* Done meeting specifications.
+
+Other ways to measure success:
+
+* Developer satisfaction.
+* Number of post release bugs.
+* Product reviews/ratings.
+* Customer Satisfaction.
+* Revenue Generated.
+
+Ref: http://scottambler.com/backup_muse/no-common-definition-of-success.html
+
+
 ## Agile Manifesto
 
 * http://agilemanifesto.org/iso/en/manifesto.html
