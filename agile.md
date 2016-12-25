@@ -1,6 +1,6 @@
 # Agile Notes
 
-## How a Project can be measured?
+## How a Project success can be measured?
 
 Mostly if:
 
@@ -16,16 +16,18 @@ Other ways to measure success:
 * Customer Satisfaction.
 * Revenue Generated.
 
-Ref: http://scottambler.com/backup_muse/no-common-definition-of-success.html
+> References:
+> http://scottambler.com/backup_muse/no-common-definition-of-success.html
+> http://www.ambysoft.com/surveys/success2013.html
 
+* Agile is directly proportional to success. The reason is, because of its principles which you will learn later. Agile thrives to build better software, happier developers and satisfied clients.
 
 ## Agile Manifesto
 
+Agile methodologies and principles are based on `Agile Manifesto`. The `Agile Manifesto` has `four core values` and `twelve principles`.
+
 * http://agilemanifesto.org/iso/en/manifesto.html
 
-## How Project success is determined?
-
-* http://www.ambysoft.com/surveys/success2013.html
 
 ## Popular Websites about Agile software Development
 
