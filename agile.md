@@ -16,7 +16,7 @@ Other ways to measure success:
 * Customer Satisfaction.
 * Revenue Generated.
 
-### References
+###### References
 * http://scottambler.com/backup_muse/no-common-definition-of-success.html
 * http://www.ambysoft.com/surveys/success2013.html
 
@@ -36,7 +36,7 @@ Agile methodologies and principles are based on `Agile Manifesto`. The `Agile Ma
 * https://en.wikipedia.org/wiki/Software_development_process
 * http://ieeexplore.ieee.org/document/1665059/?reload=true&arnumber=1665059
 
-### Different Software Processes
+#### Different Software Processes
 
 * Linear process models
     * https://pragtob.wordpress.com/2012/03/02/why-waterfall-was-a-big-misunderstanding-from-the-beginning-reading-the-original-paper/
@@ -45,7 +45,7 @@ Agile methodologies and principles are based on `Agile Manifesto`. The `Agile Ma
 * Parallel Process models
     * http://www.informit.com/articles/article.aspx?p=24671
 
-### Which process models does agile principles fit betterly?
+#### Which process models does agile principles fit betterly?
 
 * The `agile principles` complement the `iterative` process model betterly when compared with others.
 
@@ -53,22 +53,22 @@ Agile methodologies and principles are based on `Agile Manifesto`. The `Agile Ma
 
 * Agile methodology is a group of agile practices. Popular agile methodologies are `scrum` and `XP`. `XP` emphasis on `engineering practices` and `scrum` emphasis on `software management`.
 
-### Scrum:
+#### Scrum:
 
 * [Scrum in 10 minutes](https://www.youtube.com/watch?v=XU0llRltyFM)
 * [Scrum Guides](http://www.scrumguides.org/)
 
-### XP:
+#### XP:
 
 * [XP Overview](http://www.extremeprogramming.org/)
 * [XP Principles](http://www.extremeprogramming.org/rules.html)
 
-### LEAN:
+#### LEAN:
 
 * LEAN philiosophy extendes the agile philosophy. Its main goal to eliminate and improve quality of product.
 * [LEAN principles](http://www.poppendieck.com/)
 
-### KANBAN:
+#### KANBAN:
 
 * KANBAN is a methodology following the LEAN principles.
 * [KANBAN](https://www.atlassian.com/agile/kanban)
