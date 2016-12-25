@@ -51,11 +51,37 @@ Agile methodologies and principles are based on `Agile Manifesto`. The `Agile Ma
 
 ## Agile practices and Methodologies
 
-* Agile methodology is a group of agile practices. Popular agile methodologies are `scrum` and `XP`.
+* Agile methodology is a group of agile practices. Popular agile methodologies are `scrum` and `XP`. `XP` emphasis on `engineering practices` and `scrum` emphasis on `software management`.
+
+### Scrum:
+
+* [Scrum in 10 minutes](https://www.youtube.com/watch?v=XU0llRltyFM)
+* [Scrum Guides](http://www.scrumguides.org/)
+
+### XP:
+
+* [XP Overview](http://www.extremeprogramming.org/)
+* [XP Principles](http://www.extremeprogramming.org/rules.html)
+
+### LEAN:
+
+* LEAN philiosophy extendes the agile philosophy. Its main goal to eliminate and improve quality of product.
+* [LEAN principles](http://www.poppendieck.com/)
+
+### KANBAN:
+
+* KANBAN is a methodology following the LEAN principles.
+* [KANBAN](https://www.atlassian.com/agile/kanban)
 
 ## Popular Websites about Agile software Development
 
 * [MountainGateSoftware](https://www.mountaingoatsoftware.com/books)
+* [XP](http://www.extremeprogramming.org/)
+* [Scrum](http://www.scrumguides.org/)
+* [Agile Manifesto](http://agilemanifesto.org/iso/en/manifesto.html)
+* [Agile Alliance](https://www.agilealliance.org/)
+* [Lean](http://www.poppendieck.com/)
+* [Kanban](http://kanbanblog.com/explained/)
 
 ## TEDx talks
 
