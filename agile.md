@@ -16,9 +16,9 @@ Other ways to measure success:
 * Customer Satisfaction.
 * Revenue Generated.
 
-> References:
-> http://scottambler.com/backup_muse/no-common-definition-of-success.html
-> http://www.ambysoft.com/surveys/success2013.html
+### References
+* http://scottambler.com/backup_muse/no-common-definition-of-success.html
+* http://www.ambysoft.com/surveys/success2013.html
 
 * Agile is directly proportional to success. The reason is, because of its principles which you will learn later. Agile thrives to build better software, happier developers and satisfied clients.
 
@@ -27,6 +27,24 @@ Other ways to measure success:
 Agile methodologies and principles are based on `Agile Manifesto`. The `Agile Manifesto` has `four core values` and `twelve principles`.
 
 * http://agilemanifesto.org/iso/en/manifesto.html
+
+## How agile principles can be implemented in a project?
+
+* A process can be used to apply `agile principles` in a project. A process divided the work in a project into different phases. The phases are divided into activites and activites are further divided into tasks, where the actual work is done.
+
+* https://www.codeproject.com/articles/17121/importance-of-processes-and-standards-in-software
+* https://en.wikipedia.org/wiki/Software_development_process
+* http://ieeexplore.ieee.org/document/1665059/?reload=true&arnumber=1665059
+
+### Different Software Processes
+
+* Linear process models
+    * https://pragtob.wordpress.com/2012/03/02/why-waterfall-was-a-big-misunderstanding-from-the-beginning-reading-the-original-paper/
+* Iterative Process models
+    * http://csse.usc.edu/TECHRPTS/1988/usccse88-500/usccse88-500.pdf
+* Parallel Process models
+    * http://www.informit.com/articles/article.aspx?p=24671
+
 
 
 ## Popular Websites about Agile software Development
