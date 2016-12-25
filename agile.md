@@ -28,7 +28,7 @@ Agile methodologies and principles are based on `Agile Manifesto`. The `Agile Ma
 
 * http://agilemanifesto.org/iso/en/manifesto.html
 
-## How agile principles can be implemented in a project?
+## How agile principles/practices can be implemented in a project?
 
 * A process can be used to apply `agile principles` in a project. A process divided the work in a project into different phases. The phases are divided into activites and activites are further divided into tasks, where the actual work is done.
 
@@ -45,7 +45,13 @@ Agile methodologies and principles are based on `Agile Manifesto`. The `Agile Ma
 * Parallel Process models
     * http://www.informit.com/articles/article.aspx?p=24671
 
+### Which process models does agile principles fit betterly?
 
+* The `agile principles` complement the `iterative` process model betterly when compared with others.
+
+## Agile practices and Methodologies
+
+* Agile methodology is a group of agile practices. Popular agile methodologies are `scrum` and `XP`.
 
 ## Popular Websites about Agile software Development
 
