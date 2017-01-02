@@ -17,9 +17,10 @@ Below is a simple test automation strategy with core principles, practices and s
 
 ### Customer Tests:
 
-* Writing customer tests will gives us a definition of how the product should look like.
+* Writing customer tests first will gives us a definition of how the product should look like.
 * Then they can be automated using `scripted tests` or `data-driven tests`. `Scripted tests` are hand written scripts to test the functionality of SUT. `Data-driven tests` are used to avoid duplication. When you have a set of tests which differ only with the input passed to it, then you can use `data-driven tests`. `Recorded tests` can also be used for automating the tests, if you are refactoring a existing application.
-* Customers tests can become too long and `obscure` and tend to not provide very good `Defect localization`. Well written tests can also act as documentation for the product.
+* Customers tests can become too long and `obscure` and tend to not provide very good `Defect localization`. This should be avoided.
+* Well written tests can also act as documentation for the product.
 * Every tests should have a `Fresh Fixture` before its run, which will avoid `Interacting tests`.
 * The dependency of tests on other applications can be removed by using `Test doubles`.
 
