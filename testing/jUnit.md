@@ -1,46 +1,11 @@
 ## jUnit Test Framework
 
 
-### jUnitCore:
+### Core Classes:
 
-* Parse the arguments passed in
-* Create a listener and add it to notifier object
-* Call to jUnitCommandLineParseResult Class to parse command line arguments
-* call to jUnitCommandLineParseResult Class to create a request.
-* Call to Request class to get a runner
-* After getting a runner object, the run method is called with the runner object.
+* TestCase: All the testclasses extend this class. This class contains the setup, teardown methods
+* TestSuite: Allows you to group a bunch of tests and run them by passing just the TestSuite object to the TestRunner.
+* TestRunner: Allows you to trigger the test run.
+* TestResult: Stores the test results
+* Assert: Provides methods to do self verification.
 
-jUnitCommandLineParseResult Class:
-
-* Parses the command line arguments and gets the list of classes to run.
-* A request is created using all the classes to test.
-* Filters are applied to run only specific tests
-
-Request Class:
-
-* A runner class is returned by the getRunner() method in Request class
-
-
-
-
-### Annotations:
-
-Interface: TestClassValidator
-
-Methods in it: validateTestClass(TestClass)
-
-
-Implementations of Interface:
-
-PublicClassValidator
-
-* Checks if the class is a public class
-
-AnnotationsValidator:
-
-* Has a private variable with testclass, testmethod and testfield validators.
-
-
-Abstract class: AnnotationValidator
-
-Methods in it: validateAnnotatedClass(TestClass), validateAnnotatedField(FrameworkField), validateAnnotatedMethod(FrameworkMethod)
